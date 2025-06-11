@@ -54,8 +54,7 @@ strmlt_app/
 
 ## ✍️ Author
 
-Anthony – built and tested entirely in Jupyter Notebook.
+Anthony Enujeko – built and tested entirely in Jupyter Notebook.
 
 ---
 
-Let me know if you'd like to add installation instructions for conda or a link to your dataset.
